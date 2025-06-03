@@ -1,0 +1,22 @@
+C:\Users\Sofia\Music\POO 2\Task Master\bin\Debug\Task Master.exe.config
+C:\Users\Sofia\Music\POO 2\Task Master\bin\Debug\Task Master.exe
+C:\Users\Sofia\Music\POO 2\Task Master\bin\Debug\Task Master.pdb
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task Master.csproj.AssemblyReference.cache
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task_Master.Form1.resources
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task_Master.Properties.Resources.resources
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task Master.csproj.GenerateResource.cache
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task Master.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task Master.exe
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task Master.pdb
+C:\Users\Sofia\Music\POO 2\Task Master\obj\Debug\Task Master.exe.config
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\bin\Debug\Task Master.exe.config
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\bin\Debug\Task Master.exe
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\bin\Debug\Task Master.pdb
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task Master.csproj.AssemblyReference.cache
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task Master.exe.config
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Gestion_De_Tareas_Pendientes.Form1.resources
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task_Master.Properties.Resources.resources
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task Master.csproj.GenerateResource.cache
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task Master.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task Master.exe
+C:\Users\Sofia\Music\POO 2\Gestión de Tareas Pendientes\obj\Debug\Task Master.pdb
